@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "366744361877",
+    "firebase_url": "https://covaid-eeum-default-rtdb.firebaseio.com",
+    "project_id": "covaid-eeum",
+    "storage_bucket": "covaid-eeum.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366744361877:android:92a5d91a67251d65f2b49c",
+        "android_client_info": {
+          "package_name": "com.example.flutter_charts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366744361877-6ap8q84v7i5stcj6b0r5vgndps3mnfss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO3skgRMOm2HnZ5_0IOaN0W51PTy2wYSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366744361877-6ap8q84v7i5stcj6b0r5vgndps3mnfss.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "366744361877-utoqvu24h9aciva46npmsvsohpf8qj80.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "my.eeum.covaid"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366744361877:android:a978732a3cbb912cf2b49c",
+        "android_client_info": {
+          "package_name": "my.eeum.covaid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366744361877-6ap8q84v7i5stcj6b0r5vgndps3mnfss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO3skgRMOm2HnZ5_0IOaN0W51PTy2wYSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366744361877-6ap8q84v7i5stcj6b0r5vgndps3mnfss.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "366744361877-utoqvu24h9aciva46npmsvsohpf8qj80.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "my.eeum.covaid"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
