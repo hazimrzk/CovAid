@@ -4,6 +4,8 @@ CovAid is a CoVid-19 case tracking app developed as our submission for Universit
 
 Our team collected case statistics from Kementerian Kesihatan Malaysia (KKM) and performed analytics to offer useful visualization of data to the users. The result is shown to end users in the form of mobile app.
 
+The project was developed with at its [original remote repository](https://github.com/CovAid-EEUM/covaid). As it is private, the project is reuploaded here for code-reviewing purposes.
+
 ### Technologies
 
 - Data Scraping - Python
@@ -37,8 +39,8 @@ Step 2: Commit process
 
 ## Contributions
 
-- Muhammad Ammar bin Hassan@Zakaria - Data Scraping & Analytics - GitHub: github.com/thelight0134
-- Muhammad Azizul Hazim bin Abd Razak - App Development & UI Design - GitHub: github.com/hazimrzk
+- [Muhammad Ammar bin Hassan@Zakaria](https://www.github.com/thelight0134) - Data Scraping & Analytics 
+- [Muhammad Azizul Hazim bin Abd Razak](https://www.github.com/hazimrzk) - App Development & UI Design
 - Mohammad Nadzmi bin Jamal Nasir
 - Goh Wen Zheng
 - Muhammad Ariff Firdaus bin Rosli
