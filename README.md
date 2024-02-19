@@ -4,6 +4,13 @@ CovAid is a CoVid-19 case tracking app developed as our submission for Universit
 
 Our team collected case statistics from Kementerian Kesihatan Malaysia (KKM) and performed analytics to offer useful visualization of data to the users. The result is shown to end users in the form of mobile app.
 
+### Technologies
+
+- Data Scraping - Python
+- Analytics - NumPy
+- Database - Firebase Firestore
+- Frontend - Flutter & Dart
+
 ## Installation
 
 *Note that the app runs on real-time data. As the data scrapper is no longer maintained, the app will not able to download data from our database. Thus, It will not run as intended*
